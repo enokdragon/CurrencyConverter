@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="txtTitle">Currency Converter</string>
+    <string name="txtHint">Enter amount to convert</string>
+    <string name="radioBtn1">Convert USD to AUD</string>
+    <string name="radioBtn2">Convert AUD to USD</string>
+    <string name="convertBtn">Convert Currency</string>
+
+</resources>
